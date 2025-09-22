@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamennuzkypapir", "Kamennuz
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Šibenice", "Šibenice\Šibenice.csproj", "{9375C0E9-91DC-40D1-8BCF-FE4F3E5D4797}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piškvorky", "Piškvorky\Piškvorky.csproj", "{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9375C0E9-91DC-40D1-8BCF-FE4F3E5D4797}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9375C0E9-91DC-40D1-8BCF-FE4F3E5D4797}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9375C0E9-91DC-40D1-8BCF-FE4F3E5D4797}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
