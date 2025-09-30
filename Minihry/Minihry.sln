@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36414.22 d17.14
+VisualStudioVersion = 17.14.36414.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kamennuzkypapir", "Kamennuzkypapir\Kamennuzkypapir.csproj", "{551FBA3C-848B-42ED-8897-5D3E69CD13A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Šibenice", "Šibenice\Šibenice.csproj", "{9375C0E9-91DC-40D1-8BCF-FE4F3E5D4797}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Piškvorky", "Piškvorky\Piškvorky.csproj", "{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterTetris", "BetterTetris\BetterTetris.csproj", "{EAE7A1CF-03EB-4261-87CD-5CE60C791877}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5390BCDF-5659-46DD-8FC5-9D8FD3DD7B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE7A1CF-03EB-4261-87CD-5CE60C791877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE7A1CF-03EB-4261-87CD-5CE60C791877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE7A1CF-03EB-4261-87CD-5CE60C791877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE7A1CF-03EB-4261-87CD-5CE60C791877}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

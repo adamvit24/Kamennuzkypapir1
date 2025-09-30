@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+namespace Sibenice
 class Program
 {
     static void Main()

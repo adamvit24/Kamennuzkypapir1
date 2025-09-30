@@ -1,6 +1,6 @@
 ﻿using System.Diagnostics;
 
-namespace Šibenice
+namespace Piskvorky
 {
     internal class Program
     {

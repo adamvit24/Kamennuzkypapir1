@@ -1,4 +1,4 @@
-﻿namespace Kamennuzkypapir
+﻿namespace KamenNuzkyPapir
 {
     class Program
     {
